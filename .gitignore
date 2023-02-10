@@ -1,8 +1,5 @@
 .DS_STORE
 node_modules/
-bower_components/
-/examples/manga/*
-/examples/manga/*/
-!/examples/manga/one/
-cert.pem
-key.pem
+/manga/*
+/manga/*/
+!/manga/one/
